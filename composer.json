@@ -1,5 +1,5 @@
 {
-    "name": "akaunting/language",
+    "name": "conttas/laravel-language",
     "description": "Language switcher package for Laravel.",
     "keywords": [
         "laravel",
