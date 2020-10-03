@@ -26,7 +26,7 @@ This package allows switching locale easily on Laravel projects. It's so simple 
 Run the following command:
 
 ```
-composer require akaunting/language
+composer require conttas/laravel-language
 ```
 
 ### 2. Register (for Laravel < 5.5)
